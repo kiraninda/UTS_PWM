@@ -1,0 +1,22 @@
+{
+    "name" : "PWA Project",
+    "short_name" : "My App",
+    "start_url" : ".",
+    "backgroud_color" : "green",
+    "theme_color" : "#009578",
+    "display" : "standalone",
+    "icons" : [
+
+        {
+            "src" : "image/logo64.png",
+            "size" : "64x64",
+            "type" : "image/logo64.png"
+        },
+        {
+            "src" : "image/logo512.png",
+            "size" : "51x512",
+            "type" : "image/logo512.png"
+        }
+
+    ]
+}
